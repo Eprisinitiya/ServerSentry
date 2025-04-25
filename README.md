@@ -29,12 +29,12 @@ Server-sentry Bash script for real-time Linux server performance monitoring with
 
 2. Make the script executable:
    ```bash
-   chmod +x server-stats.sh
+   chmod +x server-sentry.sh
    ```
 
 3. Run the script:
    ```bash
-   ./server-stats.sh
+   ./server-sentry.sh
    ```
 
 ## 🔧 Requirements
